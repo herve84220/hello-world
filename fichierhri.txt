@@ -1,0 +1,2 @@
+imaginons que tu aies mis au point une belle requete blazegraph optimisée ici
+tu chercheras à la remonter dans ton repository github ensuite
